@@ -23,80 +23,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.12.0/highlight.min.js"></script>
     <script>hljs.highlightAll();</script>
 </head>
-
 <body>
 
-<header>
-    <button style="all: unset; cursor: pointer;" class="tip" data-tip="Hello, Universe!"><h2>solusyus</h2></button>
-</header>
+    {% include header.html %}
 
 <main>
-
-  <section>
-        <h1>Lorem Ipsum</h1>
-        <p>Lorem ipsum <cite>dolor</cite> sit amet, consectetur adipiscing elit. Curabitur vitae auctor sapien. <q>Mauris vitae fringilla sapien.</q> Nullam a arcu congue ligula dapibus semper. <a href="https://example.com">Pellentesque</a> et felis non nisi efficitur facilisis. Proin bibendum nisi vel <mark>metus elementum</mark> efficitur. Sed tincidunt <span class="spoiler">sit amet sem vitae</span> egestas. Nulla viverra euismod lectus, semper varius mi. Interdum et <a href="https://example.com">malesuada</a> fames ac ante ipsum primis in faucibus. Duis bibendum rutrum turpis eu molestie. Integer mi orci, sodales id ipsum non, tempus rhoncus nisi. Etiam fringilla lorem nec ipsum convallis volutpat. Aliquam at ornare dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-    </section>
-  <figure>
-  <img src="images/space.jpg" alt="Space">
-  <figcaption>“<a href="https://www.flickr.com/photos/nasahubble/53680290403" title="Hubble Celebrates 34th Anniversary with a Look at the Little Dumbbell Nebula">Hubble Celebrates 34th Anniversary with a Look at the Little Dumbbell Nebula</a>” by <a href="https://www.flickr.com/photos/nasahubble/">NASA Hubble Space Telescope</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="license noopener noreferrer">Public Domain Dedication (CC0)</a></figcaption>
-</figure>
-  <section>
-        <p>Praesent cursus est in massa lacinia, non ultrices elit condimentum. Donec vehicula lacus vel diam pulvinar porta. Duis rhoncus tellus ac iaculis tincidunt. Nullam cursus aliquet augue quis hendrerit. Integer varius aliquam augue a convallis. Phasellus vulputate nisi sit amet pellentesque tincidunt. Sed in odio vel magna iaculis dictum ut sit amet urna. Ut mattis nisi id velit elementum efficitur. Nulla rhoncus tincidunt sem, vitae vehicula libero mollis ut. Sed malesuada ipsum lobortis blandit varius.</p>
-        <p>The formula for area is \( A = \pi r^2 \).</p>
-        \[
-A = \pi r^2
-\]
-        <p>Maecenas malesuada feugiat pellentesque. Mauris mattis porta condimentum. Mauris maximus, nulla vel semper vulputate, purus lorem malesuada erat, sed congue dolor arcu id sem. Vestibulum semper turpis nibh, vel finibus nulla volutpat vitae. Ut tincidunt posuere leo, id tincidunt neque scelerisque et. In orci enim, volutpat in nisi ut, condimentum tincidunt quam. Maecenas id mattis nibh. Aenean eu faucibus augue. Ut rhoncus, ligula id pellentesque elementum, augue justo egestas est, et tristique est tortor nec mauris. Nulla quis dui at sem elementum luctus sed quis enim. Suspendisse at malesuada risus, vel semper quam. Sed euismod odio in finibus <code>luctus</code>. Integer efficitur sapien tortor, hendrerit interdum purus feugiat ac. Ut in justo quam. Aenean non diam a nisi posuere condimentum.
-        <ul>
-          <li>lorem</li>
-          <li>ipsum</li>
-          <li>dolor</li>
-          <li>sit</li>
-          <li>amet</li>
-        </ul></p>
-    </section>
-        <blockquote>I think, therefore I am.
-        <p class="author">— René Descartes</p></blockquote>
-        <pre><code>print("Hello, World!")</code></pre>
-  <hr class="dash">
-  <section>
-  <div class="sticker">
-  <img src="images/1.gif">
-  <img src="images/2.gif">
-  <img src="images/3.gif">
-  <img src="images/4.gif">
-  <img src="images/5.gif">
-  <img src="images/6.gif">
-  <img src="images/7.png">
-  <img src="images/8.gif">
-  <img src="images/9.gif">
-  <img src="images/10.gif">
-  <img src="images/11.gif">
-  <img src="images/12.gif">
-  <img src="images/13.png">
-  <img src="images/14.png">
-  <img src="images/15.gif">
-  <img src="images/16.gif">
-  <img src="images/17.gif">
-  <img src="images/18.gif">
-  <img src="images/19.gif">
-  <img src="images/21.png">
-  <img src="images/22.jpg">
-  <img src="images/23.gif">
-  <img src="images/24.jpg">
-  <img src="images/25.gif">
-  </div>
-  </section>
-  
+    {{ content }}
 </main>
 
-<footer>
-<b>This is absurd.</b><br>
-<b>This is absurd.</b><br>
-<b>This is absurd.</b>
-</footer>
+    {% include footer.html %}
 
 <script src="script.js"></script>
 <script src="oneko.js"></script>
 </body>
-  </html>
+</html>
