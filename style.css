@@ -65,9 +65,9 @@ figcaption {
 
 hr {
   width: 95%;
+  border: 0;
   border-top: 1px solid var(--color);
-  margin-top: var(--margin);
-  margin-bottom: var(--margin);
+  margin-inline: 0;
 }
 hr.dash {
   border-top: 1px dashed var(--color);
