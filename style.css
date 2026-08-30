@@ -100,7 +100,9 @@ blockquote {
 }
 .author {
   text-align: right;
-}
+  display: block;
+  font-style: normal;
+  }
 
 .spoiler {
     background-color: var(--color);
