@@ -39,9 +39,8 @@ body {
     background-color: var(--bg-color);
 }
 
-section {
-  padding-left: var(--h-padding);
-  padding-right: var(--h-padding);
+section, header, figcaption {
+    padding-inline: var(--h-padding);
 }
 
 img {
@@ -56,8 +55,6 @@ figcaption {
   font-size: .8rem;
   color: var(--caption-color);
   margin-top: .25rem;
-  padding-left: var(--h-padding);
-  padding-right: var(--h-padding);
 }
 
 hr {
@@ -74,8 +71,6 @@ hr.dot {
 }
 
 header {
-  padding-left: var(--h-padding);
-  padding-right: var(--h-padding);
   color: var(--accent);
 }
 header :is(h1, h2, h3, h4, h5, h6) {
