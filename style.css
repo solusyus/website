@@ -16,7 +16,7 @@
 }
 
 :root {
-  --accent: #f0f;
+  --accent: #0ff;
   --sub-accent: #8839ef;
   --color: #000000;
   --bg-color: #ffffff;
@@ -64,10 +64,9 @@ figcaption {
 }
 
 hr {
-  width: 95%;
   border: 0;
   border-top: 1px solid var(--color);
-  margin-inline: 0;
+  margin-inline: var(--margin);
 }
 hr.dash {
   border-top: 1px dashed var(--color);
