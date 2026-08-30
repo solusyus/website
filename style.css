@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "EB Garamond";
+    src: url("fonts/EBGaramond-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Fira Code";
+    src: url("fonts/FiraCode-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "DM Sans";
+    src: url("fonts/DMSans-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Ark Pixel Mono";
+    src: url("fonts/ark-pixel-10px-monospaced-latin.ttf.woff2") format("woff2");
+}
