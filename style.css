@@ -166,7 +166,6 @@ a {
   color: var(--accent);
   text-decoration: underline dotted;
   text-decoration-thickness: 2px;
-  -webkit-tap-highlight-color: transparent;
 }
 a:visited {
   color: var(--sub-accent);
@@ -179,3 +178,7 @@ a:active {
   color: var(--bg-color);
   background-color: var(--accent);
     }
+
+* {
+  -webkit-tap-highlight-color: transparent;
+      }
