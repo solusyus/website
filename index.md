@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis auctor auctor. Donec cursus convallis nulla sed imperdiet. Morbi eu leo pretium, eleifend sem in, varius augue. Cras porta lorem nulla, quis vestibulum ex maximus id. Proin leo orci, finibus ac nulla a, pharetra molestie nisl. Maecenas quis sem sagittis sem sagittis tempus vitae non velit. Nam pulvinar ullamcorper nulla sed viverra. Morbi sagittis dictum nulla. Quisque eget mi vel libero semper imperdiet eu in eros. Vivamus vel ornare elit. Sed mattis cursus consectetur. Nunc a lacinia quam, consequat hendrerit diam. Sed rutrum lorem libero, vel ultrices ipsum sollicitudin non. In iaculis nulla aliquam pharetra egestas. Donec dui tortor, posuere eget mollis non, placerat a ante.
