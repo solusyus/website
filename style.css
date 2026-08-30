@@ -16,7 +16,7 @@
 }
 
 :root {
-  --accent: #0050ff;
+  --accent: #0f0;
   --sub-accent: #8839ef;
   --color: #000000;
   --bg-color: #ffffff;
@@ -187,7 +187,3 @@ a:active {
 * {
   -webkit-tap-highlight-color: transparent;
       }
-
-button {
-  -webkit-tap-highlight-color: transparent !important;
-}
