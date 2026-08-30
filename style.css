@@ -77,6 +77,7 @@ hr.dot {
 
 header {
   color: var(--accent);
+  margin-block: 0;
 }
 header :is(h1, h2, h3, h4, h5, h6) {
   margin: 0;
@@ -119,7 +120,7 @@ blockquote {
   
 code {
   font-family: "Fira Code", monospace;
-  font-size: .8rem;
+  font-size: .9rem;
   border-radius: 4px;
   color: var(--accent);
   background-color: #f0f0f0;
