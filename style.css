@@ -16,7 +16,7 @@
 }
 
 :root {
-  --accent: red;
+  --accent: #0050ff;
   --sub-accent: #8839ef;
   --color: #000000;
   --bg-color: #ffffff;
@@ -40,9 +40,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-}
-html {
-  min-height: 100%;
 }
 main {
   flex: 1;
