@@ -14,3 +14,171 @@
     font-family: "Ark Pixel Mono";
     src: url("fonts/ark-pixel-10px-monospaced-latin.ttf.woff2") format("woff2");
 }
+
+:root {
+  --accent: #0050ff;
+  --sub-accent: #8839ef;
+  --color: #000000;
+  --bg-color: #ffffff;
+  --tip-bg-color: #ffffaf;
+  --caption-color: #afafaf;
+  --h-padding: 1rem;
+  --margin: 1rem;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--color);
+    background-color: var(--bg-color);
+}
+
+section {
+  padding-left: var(--h-padding);
+  padding-right: var(--h-padding);
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+figure {
+  margin: var(--margin) 0;
+}
+figcaption {
+  font-size: .8rem;
+  color: var(--caption-color);
+  margin-top: .25rem;
+  padding-left: var(--h-padding);
+  padding-right: var(--h-padding);
+}
+
+hr {
+  width: 95%;
+  border-top: 1px solid var(--color);
+  margin-top: var(--margin);
+  margin-bottom: var(--margin);
+}
+hr.dash {
+  border-top: 1px dashed var(--color);
+}
+hr.dot {
+  border-top: 1px dotted var(--color);
+}
+
+header {
+  padding-left: var(--h-padding);
+  padding-right: var(--h-padding);
+  color: var(--accent);
+}
+header :is(h1, h2, h3, h4, h5, h6) {
+  margin: 0;
+}
+
+footer {
+  font-family: "Ark Pixel Mono", sans-serif;
+  color: var(--bg-color);
+  background-color: var(--accent);
+  padding-bottom: 20%;
+  margin-top: var(--margin);
+  padding-left: var(--h-padding);
+  padding-right: var(--h-padding);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "EB Garamond", serif;
+}
+
+blockquote {
+  background: var(--color);
+  color: var(--bg-color);
+  font-family: "EB Garamond", serif;
+  margin: 0;
+  padding: 0 2.5rem;
+}
+.author {
+  text-align: right;
+}
+
+.spoiler {
+    background-color: var(--color);
+    color: var(--color);
+  }
+.spoiler.active {
+    background-color: #f0f0f0;
+  }
+  
+code {
+  font-family: "Fira Code", monospace;
+  font-size: .8rem;
+  border-radius: 4px;
+  color: var(--accent);
+  background-color: #f0f0f0;
+  padding: 0 4px;
+}
+pre {
+  font-family: "Fira Code", monospace;
+  border-radius: 4px;
+  margin: 1rem;
+}
+
+.tippy-box {
+  background-color: var(--tip-bg-color);
+  color: var(--color);
+  border: 1px solid var(--color);
+  border-radius: 0;
+  font-family: "Ark Pixel Mono", sans-serif;
+  font-size: .75rem;
+}
+.tippy-content {
+  padding: 0 5px;
+}
+
+.gallery {
+    columns: 4;
+    column-gap: .25rem;
+}
+.gallery img {
+    width: 100%;
+    display: block;
+    margin: .25rem 0;
+}
+.sticker {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: .25rem;
+}
+.sticker img {
+    width: 100%;
+    display: block;
+}
+
+::selection {
+  background-color: var(--accent);
+  color: var(--bg-color);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: underline dotted;
+  text-decoration-thickness: 2px;
+  -webkit-tap-highlight-color: transparent;
+}
+a:visited {
+  color: var(--sub-accent);
+}
+a:hover {
+  color: var(--bg-color);
+  background-color: var(--color);
+}
+a:active {
+  color: var(--bg-color);
+  background-color: var(--accent);
+    }
