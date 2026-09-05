@@ -80,7 +80,6 @@ header {
 }
 header :is(h1, h2, h3, h4, h5, h6) {
   margin: 0;
-  font-family: "EB Garamond", sans-serif;
 }
 
 footer {
@@ -94,7 +93,8 @@ footer {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "DM Sans", serif;
+  font-family: "EB Garamond", serif;
+  font-style: italic;
 }
 
 blockquote {
