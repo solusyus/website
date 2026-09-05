@@ -93,7 +93,7 @@ footer {
   padding-right: var(--h-padding);
 }
 
-h1, h2, h3, h4, h5, h6 {
+body :is(h1, h2, h3, h4, h5, h6) {
   font-family: "DM Sans", serif;
 }
 
