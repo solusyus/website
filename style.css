@@ -77,10 +77,10 @@ hr.dot {
 
 header {
   color: var(--accent);
-  font-family: "EB Garamond", serif;
 }
 header :is(h1, h2, h3, h4, h5, h6) {
   margin: 0;
+  font-family: "EB Garamond", sans-serif;
 }
 
 footer {
