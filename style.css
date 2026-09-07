@@ -14,6 +14,10 @@
     font-family: "Ark Pixel Mono";
     src: url("fonts/ark-pixel-10px-monospaced-latin.ttf.woff2") format("woff2");
 }
+@font-face {
+    font-family: "Libertinus Serif";
+    src: url("fonts/LibertinusSerif-Regular.ttf") format("truetype");
+}
 
 :root {
   --accent: #0050ff;
@@ -35,7 +39,7 @@ body {
     font-family: "DM Sans", sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: var(--color);
+    color: #5f5f5f;
     background-color: var(--bg-color);
     min-height: 100vh;
     display: flex;
