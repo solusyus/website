@@ -108,7 +108,7 @@ blockquote {
   color: var(--bg-color);
   font-family: "Libertinus Serif", serif;
   margin: 0;
-  padding: 0 2.5rem;
+  padding: 0 3rem;
 }
 .author {
   text-align: right;
