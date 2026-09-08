@@ -62,7 +62,7 @@ figure {
   margin: 0;
 }
 figcaption {
-  font-family: "DM Sans"' sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: .8rem;
   color: var(--caption-color);
   margin-top: .25rem;
