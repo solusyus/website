@@ -51,5 +51,6 @@ This site uses [Libertinus Serif](https://github.com/alerque/libertinus)
 by The Libertinus Serif Project Authors.
 
 Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
-See [`LICENSE-Libertinus-Serif`](./licenses/LICENSE-Libertinus-Serif)
+
+See [`LICENSE-Libertinus-Serif`](./third-party-licenses/LICENSE-Libertinus-Serif)
 for the full license text.
