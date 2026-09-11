@@ -32,10 +32,10 @@
 }
 
 :root {
-  --accent: #0050ff;
+  --accent: #ffffff;
   --sub-accent: #8839ef;
-  --color: #000000;
-  --bg-color: #ffffff;
+  --color: #ffffff;
+  --bg-color: #0050ff;
   --tip-bg-color: #ffffaf;
   --caption-color: #afafaf;
   --h-padding: 1.5rem;
