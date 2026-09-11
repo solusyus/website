@@ -84,3 +84,26 @@ Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
 
 See [`LICENSE-Bellefair`](./third-party-licenses/LICENSE-Bellefair)
 for the full license text.
+
+## MathJax
+
+This site uses [MathJax](https://www.mathjax.org/) for rendering mathematics.
+
+Licensed under the Apache License, Version 2.0.
+See [`LICENSE-MathJax`](./third-party-licenses/LICENSE-MathJax) for the full license text.
+
+## highlight.js
+
+This site uses [highlight.js](https://highlightjs.org/) for syntax highlighting.
+
+Licensed under the BSD 3-Clause License.
+
+See [`LICENSE-highlight-js`](./third-party-licenses/LICENSE-highlight-js) for the full license text.
+
+## Tippy.js
+
+This site uses [Tippy.js](https://atomiks.github.io/tippyjs/) by atomiks.
+
+Licensed under the MIT License.
+
+See [`LICENSE-Tippy-js`](./third-party-licenses/LICENSE-Tippy-js) for the full license text.
