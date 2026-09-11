@@ -110,7 +110,7 @@ See [`LICENSE-Tippy-js`](./third-party-licenses/LICENSE-Tippy-js) for the full l
 
 ## Popper.js
 
-This site uses [Popper.js]([https://popper.js.org/](https://github.com/floating-ui/floating-ui)) by Federico Zivolo.
+This site uses [Popper.js](https://github.com/popperjs/popper-core) by Federico Zivolo.
 
 Licensed under the MIT License.
 
