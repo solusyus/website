@@ -90,6 +90,7 @@ for the full license text.
 This site uses [MathJax](https://www.mathjax.org/) for rendering mathematics.
 
 Licensed under the Apache License, Version 2.0.
+
 See [`LICENSE-MathJax`](./third-party-licenses/LICENSE-MathJax) for the full license text.
 
 ## highlight.js
@@ -108,9 +109,9 @@ Licensed under the MIT License.
 
 See [`LICENSE-Tippy-js`](./third-party-licenses/LICENSE-Tippy-js) for the full license text.
 
-## Popper.js
+## Floating UI
 
-This site uses [Popper.js](https://github.com/popperjs/popper-core) by Federico Zivolo.
+This site uses [Popper.js](https://github.com/floating-ui/floating-ui) (`@popperjs/core` v2), originally developed by Federico Zivolo and now part of the Floating UI project.
 
 Licensed under the MIT License.
 
