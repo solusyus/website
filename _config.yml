@@ -3,5 +3,5 @@ description: This my personal internet shrine.
 markdown: kramdown
 theme: null
 exclude:
-  - credits.md
+  - CREDITS.md
   - third-party-licenses/
