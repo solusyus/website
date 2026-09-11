@@ -13,4 +13,5 @@ This site uses [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font)
 by TakWolf.
 
 Licensed under the SIL Open Font License, Version 1.1.
-See [`LICENSE-ARK-PIXEL`](./Third-Party-Licenses/LICENSE-ARK-PIXEL).
+
+See [`LICENSE-ARK-PIXEL`](./Third-Party-Licenses/LICENSE-ARK-PIXEL) for the full license text.
