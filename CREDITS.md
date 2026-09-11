@@ -107,3 +107,11 @@ This site uses [Tippy.js](https://atomiks.github.io/tippyjs/) by atomiks.
 Licensed under the MIT License.
 
 See [`LICENSE-Tippy-js`](./third-party-licenses/LICENSE-Tippy-js) for the full license text.
+
+## Popper.js
+
+This site uses [Popper.js](https://popper.js.org/) by Federico Zivolo.
+
+Licensed under the MIT License.
+
+See [`LICENSE-Popper-js`](./third-party-licenses/LICENSE-Popper-js) for the full license text.
