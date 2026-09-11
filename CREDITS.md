@@ -54,3 +54,33 @@ Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
 
 See [`LICENSE-Libertinus-Serif`](./third-party-licenses/LICENSE-Libertinus-Serif)
 for the full license text.
+
+## Libertinus Sans
+
+This site uses [Libertinus Sans](https://github.com/alerque/libertinus)
+by The Libertinus Sans Project Authors.
+
+Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
+
+See [`LICENSE-Libertinus-Sans`](./third-party-licenses/LICENSE-Libertinus-Sans)
+for the full license text.
+
+## Alegreya
+
+This site uses [Alegreya](https://github.com/huertatipografica/Alegreya)
+by Juan Pablo del Peral / Huerta Tipográfica.
+
+Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
+
+See [`LICENSE-Alegreya`](./third-party-licenses/LICENSE-Alegreya)
+for the full license text.
+
+## Bellefair
+
+This site uses [Bellefair](https://fonts.google.com/specimen/Bellefair)
+by Nayyer Asif.
+
+Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
+
+See [`LICENSE-Bellefair`](./third-party-licenses/LICENSE-Bellefair)
+for the full license text.
