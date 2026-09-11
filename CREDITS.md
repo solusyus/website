@@ -1,10 +1,3 @@
----
-layout: default
-title: Credits
----
-
-<section>
-  
 ## oneko.js
 
 This site uses [oneko.js](https://github.com/adryd325/oneko.js)
@@ -91,5 +84,3 @@ Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
 
 See [`LICENSE-Bellefair`](./third-party-licenses/LICENSE-Bellefair)
 for the full license text.
-
-</section>
