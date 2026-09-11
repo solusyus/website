@@ -5,4 +5,4 @@ by adryd325.
 
 Licensed under the MIT License.
 
-See [`LICENSE-oneko`](./Third-Party-Liscenses/LICENSE-oneko) for the full license text.
+See [`LICENSE-oneko`](./Third-Party-Licenses/LICENSE-oneko) for the full license text.
