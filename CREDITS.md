@@ -32,5 +32,24 @@ by Georg Duffner and Octavio Pardo.
 
 Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
 
-See [`LICENSE-EB-Garamond`](./licenses/LICENSE-EB-GARAMOND)
+See [`LICENSE-EB-Garamond`](./third-party-licenses/LICENSE-EB-Garamond)
+for the full license text.
+
+## Fira Code
+
+This site uses [Fira Code](https://github.com/tonsky/FiraCode)
+by The Fira Code Project Authors.
+
+Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
+
+See [`LICENSE-Fira-Code`](./third-party-licenses/LICENSE-Fira-Code)
+for the full license text.
+
+## Libertinus Serif
+
+This site uses [Libertinus Serif](https://github.com/alerque/libertinus)
+by The Libertinus Serif Project Authors.
+
+Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
+See [`LICENSE-Libertinus-Serif`](./licenses/LICENSE-Libertinus-Serif)
 for the full license text.
