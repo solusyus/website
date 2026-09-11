@@ -1,6 +1,6 @@
 ---
+layout: default
 title: Credits
-theme: default
 ---
 
 <section>
