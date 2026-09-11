@@ -21,5 +21,16 @@ See [`LICENSE-ARK-PIXEL`](./third-party-licenses/LICENSE-ARK-PIXEL) for the full
 This site uses [DM Sans](https://github.com/googlefonts/dm-fonts)
 by Colophon Foundry.
 
-Licensed under the SIL Open Font License, Version 1.1.
+Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
+
 See [`LICENSE-DM-Sans`](./third-party-licenses/LICENSE-DM-Sans) for the full license text.
+
+## EB Garamond
+
+This site uses [EB Garamond](https://github.com/octaviopardo/EBGaramond12)
+by Georg Duffner and Octavio Pardo.
+
+Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
+
+See [`LICENSE-EB-Garamond`](./licenses/LICENSE-EB-GARAMOND)
+for the full license text.
