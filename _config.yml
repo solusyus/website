@@ -2,3 +2,6 @@ title: Solusyus
 description: This my personal internet shrine.
 markdown: kramdown
 theme: null
+exclude:
+  - credits.md
+  - third-party-licenses/
