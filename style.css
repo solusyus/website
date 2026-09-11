@@ -18,6 +18,18 @@
     font-family: "Libertinus Serif";
     src: url("fonts/LibertinusSerif-Regular.ttf") format("truetype");
 }
+@font-face {
+    font-family: "Libertinus Sans";
+    src: url("fonts/LibertinusSans-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Alegreya";
+    src: url("fonts/Alegreya-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Bellefair";
+    src: url("fonts/Bellefair-Regular.ttf") format("truetype");
+}
 
 :root {
   --accent: #0050ff;
