@@ -42,7 +42,7 @@
   --margin: 1rem;
 }
 @media (orientation: landscape) {
-    body {
+    main {
         margin-left: 20vw;
         margin-right: 20vw;
     }
