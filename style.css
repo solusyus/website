@@ -60,15 +60,16 @@ body {
 main {
   flex: 1;
 }
-
 section, header {
     padding-inline: var(--h-padding);
 }
 
 section figcaption {
-    padding-inline: var(--h-padding);
+    padding-inline: 0;
 }
-
+body > figcaption {
+    padding-inline: var(--h-padding);
+    }
 img {
     width: 100%;
     height: auto;
