@@ -46,7 +46,7 @@
         margin-left: 20vw;
         margin-right: 20vw;
     }
-    figcaption {
+   section figcaption {
     padding-inline: 0 !important;
     }
 }
