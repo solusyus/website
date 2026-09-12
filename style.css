@@ -45,9 +45,9 @@
     body {
         max-width: 60vw;
     }
-    main {
-        margin-left: 20vw;
-        margin-right: 20vw;
+    html {
+        padding-left: 20vw;
+        padding-right: 20vw;
     }
 }
 
