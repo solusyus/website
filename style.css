@@ -61,7 +61,11 @@ main {
   flex: 1;
 }
 
-section, header, figcaption {
+section, header {
+    padding-inline: var(--h-padding);
+}
+
+section figcaption {
     padding-inline: var(--h-padding);
 }
 
