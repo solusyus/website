@@ -42,12 +42,9 @@
   --margin: 1rem;
 }
 @media (orientation: landscape) {
-    body {
-        max-width: 60vw;
-    }
-    html {
-        padding-left: 20vw;
-        padding-right: 20vw;
+    main {
+        margin-left: 20vw;
+        margin-right: 20vw;
     }
 }
 
