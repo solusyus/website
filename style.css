@@ -42,8 +42,8 @@
   --margin: 1rem;
 }
 @media (orientation: landscape) {
-    :root {
-        --content-width: 60vw;
+    body {
+        max-width: 60vw;
     }
 }
 
