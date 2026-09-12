@@ -46,6 +46,12 @@
         margin-left: 20vw;
         margin-right: 20vw;
     }
+    section, header, figure {
+    padding-inline: var(--h-padding);
+    }
+    figcaption {
+    padding-inline: 0;
+    }
 }
 
 *, *::before, *::after {
