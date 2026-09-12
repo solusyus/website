@@ -41,6 +41,11 @@
   --h-padding: 1.5rem;
   --margin: 1rem;
 }
+@media (orientation: landscape) {
+    :root {
+        --content-width: 60vw;
+    }
+}
 
 *, *::before, *::after {
     box-sizing: border-box;
