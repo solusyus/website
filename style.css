@@ -67,7 +67,7 @@ section, header {
 section figcaption {
     padding-inline: 0;
 }
-body > figcaption {
+body figcaption {
     padding-inline: var(--h-padding);
     }
 img {
