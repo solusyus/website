@@ -41,15 +41,6 @@
   --h-padding: 1.5rem;
   --margin: 1rem;
 }
-@media (orientation: landscape) {
-    main {
-        margin-left: 20vw;
-        margin-right: 20vw;
-    }
-   section figure {
-    padding-inline: 0 !important;
-    }
-}
 
 *, *::before, *::after {
     box-sizing: border-box;
