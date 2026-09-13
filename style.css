@@ -54,11 +54,8 @@
     }
 
 blockquote {
-  background: var(--color);
-  color: var(--bg-color);
-  font-family: "Libertinus Serif", serif;
-  margin: 0 3rem !important;
-  padding: 0 0 !important;
+  margin: 0 1.5rem !important;
+  padding: 0 1.5rem !important;
 }
 }
 
