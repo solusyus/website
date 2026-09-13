@@ -42,6 +42,17 @@
   --margin: 1rem;
 }
 
+@media (orientation: landscape) {
+    main {
+        margin-left: 20vw;
+        margin-right: 20vw;
+    }
+
+    img, blockquote {
+    padding-inline: var(--h-padding);
+    }
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
 }
