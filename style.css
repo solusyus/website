@@ -46,6 +46,7 @@
     main {
         margin-left: 20vw;
         margin-right: 20vw;
+        max-width: 60vw;
     }
 
     img, blockquote {
