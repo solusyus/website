@@ -61,9 +61,6 @@ header {
     position: fixed;
     z-index: 100;
 }
-header :is(h1, h2, h3, h4, h5, h6) {
-  margin: revert !important;
-}
 }
 
 *, *::before, *::after {
@@ -121,6 +118,9 @@ header {
 }
 header :is(h1, h2, h3, h4, h5, h6) {
   margin: 0;
+}
+.site-heading {
+    display: inline-block;
 }
 
 footer {
@@ -230,7 +230,3 @@ a:active {
 * {
   -webkit-tap-highlight-color: transparent;
       }
-
-.site-heading {
-    display: inline-block;
-}
