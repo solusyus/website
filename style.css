@@ -56,6 +56,14 @@ blockquote {
   margin: 0 1.5rem !important;
   padding: 0 1.5rem !important;
 }
+
+header {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 100;
+    width: max-content;
+}
 }
 
 *, *::before, *::after {
