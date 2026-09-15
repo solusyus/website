@@ -119,9 +119,6 @@ header {
 header :is(h1, h2, h3, h4, h5, h6) {
   margin: 0;
 }
-.site-heading {
-    display: inline-block;
-}
 
 footer {
   font-family: "Ark Pixel Mono", sans-serif;
@@ -138,6 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .site-heading h1, h2, h3, h4, h5, h6 {
   font-family: "EB Garamond", serif;
+  display: inline-block;
 }
 
 blockquote {
