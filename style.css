@@ -44,8 +44,7 @@
 
 @media (orientation: landscape) {
     main {
-        margin-left: 20vw;
-        margin-right: 20vw;
+        margin-inline: auto;
         max-width: 60vw;
     }
 
