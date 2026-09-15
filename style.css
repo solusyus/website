@@ -222,3 +222,7 @@ a:active {
 * {
   -webkit-tap-highlight-color: transparent;
       }
+
+.site-heading {
+    display: inline-block;
+}
