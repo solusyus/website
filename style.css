@@ -58,11 +58,10 @@ blockquote {
 }
 
 header {
-    position: absolute;
+    position: fixed;
     top: 1rem;
     left: 1rem;
     z-index: 100;
-    width: max-content;
 }
 }
 
