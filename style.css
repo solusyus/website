@@ -43,7 +43,7 @@
 }
 
 @media (orientation: landscape) {
-    main {
+    main, header {
         margin-inline: auto;
         max-width: 60vw;
     }
