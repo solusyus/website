@@ -47,6 +47,9 @@
         margin-inline: auto;
         max-width: 60vw;
     }
+    header {
+        max-width: 60vw;
+}
 
     img {
     padding-inline: var(--h-padding);
