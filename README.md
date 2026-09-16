@@ -9,4 +9,4 @@ and other content, are © 2026 Solusyus and are not licensed under MIT
 unless explicitly stated otherwise.
 
 Third-party software, fonts, and other assets retain their respective
-licenses. See `CREDITS.md` and `third-party-licenses/`.
+licenses. See [`CREDITS.md`](./CREDITS.md) and [`third-party-licenses/`](./third-party-licenses/ ).
