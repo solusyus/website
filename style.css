@@ -48,6 +48,19 @@
         max-width: 60vw;
     }
 
+.layout {
+    display: grid;
+    grid-template-columns: 20vw 60vw 20vw;
+}
+
+nav {
+    grid-column: 1;
+}
+
+main {
+    grid-column: 2;
+}
+
     img {
     padding-inline: var(--h-padding);
     }
