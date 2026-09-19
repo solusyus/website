@@ -23,23 +23,18 @@ by Colophon Foundry.
 
 ## EB Garamond
 
-This site uses [EB Garamond](https://github.com/octaviopardo/EBGaramond12)
-by Georg Duffner and Octavio Pardo.
+Source: [EB Garamond](https://github.com/octaviopardo/EBGaramond12) by Georg Duffner and Octavio Pardo.
 
-Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
-
-See [`LICENSE-EB-Garamond`](./third-party-licenses/LICENSE-EB-Garamond)
-for the full license text.
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-EB-Garamond`](./third-party-licenses/LICENSE-EB-Garamond).
 
 ## Fira Code
 
-This site uses [Fira Code](https://github.com/tonsky/FiraCode)
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-Fira-Code`](./third-party-licenses/LICENSE-Fira-Code).
+
+Source: [Fira Code](https://github.com/tonsky/FiraCode)
 by The Fira Code Project Authors.
-
-Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
-
-See [`LICENSE-Fira-Code`](./third-party-licenses/LICENSE-Fira-Code)
-for the full license text.
 
 ## Libertinus Serif
 
