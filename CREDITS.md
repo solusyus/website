@@ -52,13 +52,10 @@ Source: [Libertinus](https://github.com/alerque/libertinus) by The Libertinus Se
 
 ## Alegreya
 
-This site uses [Alegreya](https://github.com/huertatipografica/Alegreya)
-by Juan Pablo del Peral / Huerta Tipográfica.
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-Alegreya`](./third-party-licenses/LICENSE-Alegreya).
 
-Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
-
-See [`LICENSE-Alegreya`](./third-party-licenses/LICENSE-Alegreya)
-for the full license text.
+Source: [Alegreya](https://github.com/huertatipografica/Alegreya) by Juan Pablo del Peral / Huerta Tipográfica.
 
 ## Bellefair
 
