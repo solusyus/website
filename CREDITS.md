@@ -38,13 +38,10 @@ by The Fira Code Project Authors.
 
 ## Libertinus Serif
 
-This site uses [Libertinus Serif](https://github.com/alerque/libertinus)
-by The Libertinus Serif Project Authors.
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-Libertinus-Serif`](./third-party-licenses/LICENSE-Libertinus-Serif).
 
-Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
-
-See [`LICENSE-Libertinus-Serif`](./third-party-licenses/LICENSE-Libertinus-Serif)
-for the full license text.
+Source: [Libertinus Serif](https://github.com/alerque/libertinus) by The Libertinus Serif Project Authors.
 
 ## Libertinus Sans
 
