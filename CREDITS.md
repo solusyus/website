@@ -59,29 +59,24 @@ Source: [Alegreya](https://github.com/huertatipografica/Alegreya) by Juan Pablo 
 
 ## Bellefair
 
-This site uses [Bellefair](https://fonts.google.com/specimen/Bellefair)
-by Nayyer Asif.
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-Bellefair`](./third-party-licenses/LICENSE-Bellefair).
 
-Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
-
-See [`LICENSE-Bellefair`](./third-party-licenses/LICENSE-Bellefair)
-for the full license text.
+Source: [Bellefair](https://fonts.google.com/specimen/Bellefair) by Nayyer Asif.
 
 ## MathJax
 
-This site uses [MathJax](https://www.mathjax.org/) for rendering mathematics.
+License: Apache License, Version 2.0.<br>
+The full license is linked/attached here: [`LICENSE-MathJax`](./third-party-licenses/LICENSE-MathJax).
 
-Licensed under the Apache License, Version 2.0.
-
-See [`LICENSE-MathJax`](./third-party-licenses/LICENSE-MathJax) for the full license text.
+Source: [MathJax](https://www.mathjax.org/).
 
 ## highlight.js
 
-This site uses [highlight.js](https://highlightjs.org/) for syntax highlighting.
+License: BSD 3-Clause License.<br>
+The full license is linked/attached here: [`LICENSE-highlight-js`](./third-party-licenses/LICENSE-highlight-js).
 
-Licensed under the BSD 3-Clause License.
-
-See [`LICENSE-highlight-js`](./third-party-licenses/LICENSE-highlight-js) for the full license text.
+Source: [highlight.js](https://highlightjs.org/).
 
 ## Tippy.js
 
