@@ -11,7 +11,7 @@ by adryd325.
 License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
 The full license is linked/attached here: [`LICENSE-ARK-PIXEL`](./third-party-licenses/LICENSE-ARK-PIXEL).
 
-Source: [ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) by TakWolf.
+Source: [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font) by TakWolf.
 
 ## DM Sans
 
