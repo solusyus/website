@@ -1,6 +1,7 @@
 ## oneko.js
 
-License: MIT License, you can see it here: [`LICENSE-oneko`](./third-party-licenses/LICENSE-oneko).
+License: MIT License
+The full license is linked/attached here: [`LICENSE-oneko`](./third-party-licenses/LICENSE-oneko).
 
 Source: [oneko.js](https://github.com/adryd325/oneko.js)
 by adryd325.
