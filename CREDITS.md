@@ -8,7 +8,7 @@ by adryd325.
 
 ## Ark Pixel Font
 
-License: SIL Open Font License, Version 1.1.<br>
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
 The full license is linked/attached here: [`LICENSE-ARK-PIXEL`](./third-party-licenses/LICENSE-ARK-PIXEL).
 
 Source: [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font) by TakWolf.
