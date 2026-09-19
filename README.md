@@ -2,11 +2,9 @@ Here's the [link](https://solusyus.github.io/website/) to my website.
 
 ## License
 
-The source code of this website is licensed under the MIT License.
+This repository and the website are licensed under the MIT License.
 
-My original creative works, including writing, artwork, photographs,
-and other content, are © 2026 Solusyus and are not licensed under MIT
-unless explicitly stated otherwise.
+All the original creative works like paintings, poems, writings & photographs, are my intellectual property and are © 2026 Solusyus and are not licensed under the MIT License unless explicitly stated otherwise.
 
-Third-party software, fonts, and other assets retain their respective
-licenses. See [`CREDITS.md`](./CREDITS.md) and [`third-party-licenses/`](./third-party-licenses/ ).
+All the third-party softwares, fonts, and other assets used in this project have their own respective
+licenses, all of which are listed and attached in [`CREDITS.md`](./CREDITS.md) and [`third-party-licenses/`](./third-party-licenses/ ) respectively.
