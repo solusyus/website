@@ -15,12 +15,11 @@ Source: [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font) by TakWolf.
 
 ## DM Sans
 
-This site uses [DM Sans](https://github.com/googlefonts/dm-fonts)
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-DM-Sans`](./third-party-licenses/LICENSE-DM-Sans).
+
+Source: [DM Sans](https://github.com/googlefonts/dm-fonts)
 by Colophon Foundry.
-
-Licensed under the SIL Open Font License, Version 1.1 - 26 February 2007.
-
-See [`LICENSE-DM-Sans`](./third-party-licenses/LICENSE-DM-Sans) for the full license text.
 
 ## EB Garamond
 
