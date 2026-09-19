@@ -1,18 +1,17 @@
 ## oneko.js
 
-License: MIT License, the full license is linked/attached here: [`LICENSE-oneko`](./third-party-licenses/LICENSE-oneko).
+License: MIT License.<br>
+The full license is linked/attached here: [`LICENSE-oneko`](./third-party-licenses/LICENSE-oneko).
 
 Source: [oneko.js](https://github.com/adryd325/oneko.js)
 by adryd325.
 
 ## Ark Pixel Font
 
-This site uses [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font)
-by TakWolf.
+License: SIL Open Font License, Version 1.1.<br>
+The full license is linked/attached here: [`LICENSE-ARK-PIXEL`](./third-party-licenses/LICENSE-ARK-PIXEL).
 
-Licensed under the SIL Open Font License, Version 1.1.
-
-See [`LICENSE-ARK-PIXEL`](./third-party-licenses/LICENSE-ARK-PIXEL) for the full license text.
+Source: [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font) by TakWolf.
 
 ## DM Sans
 
