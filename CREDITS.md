@@ -23,10 +23,10 @@ by Colophon Foundry.
 
 ## EB Garamond
 
-Source: [EB Garamond](https://github.com/octaviopardo/EBGaramond12) by Georg Duffner and Octavio Pardo.
-
 License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
 The full license is linked/attached here: [`LICENSE-EB-Garamond`](./third-party-licenses/LICENSE-EB-Garamond).
+
+Source: [EB Garamond](https://github.com/octaviopardo/EBGaramond12) by Georg Duffner and Octavio Pardo.
 
 ## Fira Code
 
