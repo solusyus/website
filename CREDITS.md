@@ -41,14 +41,14 @@ by The Fira Code Project Authors.
 License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
 The full license is linked/attached here: [`LICENSE-Libertinus-Serif`](./third-party-licenses/LICENSE-Libertinus-Serif).
 
-Source: [Libertinus Serif](https://github.com/alerque/libertinus) by The Libertinus Project Authors.
+Source: [Libertinus](https://github.com/alerque/libertinus) by The Libertinus Project Authors.
 
 ## Libertinus Sans
 
 License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
 The full license is linked/attached here: [`LICENSE-Libertinus-Sans`](./third-party-licenses/LICENSE-Libertinus-Sans).
 
-Source: [Libertinus Sans](https://github.com/alerque/libertinus) by The Libertinus Serif Project Authors.
+Source: [Libertinus](https://github.com/alerque/libertinus) by The Libertinus Serif Project Authors.
 
 ## Alegreya
 
