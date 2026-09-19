@@ -80,16 +80,14 @@ Source: [highlight.js](https://highlightjs.org/).
 
 ## Tippy.js
 
-This site uses [Tippy.js](https://atomiks.github.io/tippyjs/) by atomiks.
+License: MIT License.
+The full license is linked/attached here: [`LICENSE-Tippy-js`](./third-party-licenses/LICENSE-Tippy-js)
 
-Licensed under the MIT License.
-
-See [`LICENSE-Tippy-js`](./third-party-licenses/LICENSE-Tippy-js) for the full license text.
+Source: [Tippy.js](https://atomiks.github.io/tippyjs/) by atomiks.
 
 ## Floating UI
 
-This site uses [Popper.js](https://github.com/floating-ui/floating-ui) (`@popperjs/core` v2), originally developed by Federico Zivolo and now part of the Floating UI project.
+Source: [Popper.js](https://github.com/floating-ui/floating-ui) (`@popperjs/core` v2), originally developed by Federico Zivolo and is now part of the Floating UI project.
 
-Licensed under the MIT License.
-
-See [`LICENSE-Popper-js`](./third-party-licenses/LICENSE-Popper-js) for the full license text.
+License: MIT License.
+The full license is linked/attached here: [`LICENSE-Popper-js`](./third-party-licenses/LICENSE-Popper-js).
