@@ -11,14 +11,14 @@ by adryd325.
 License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
 The full license is linked/attached here: [`LICENSE-ARK-PIXEL`](./third-party-licenses/LICENSE-ARK-PIXEL).
 
-Source: [Ark Pixel Font](https://github.com/TakWolf/ark-pixel-font) by TakWolf.
+Source: [ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) by TakWolf.
 
 ## DM Sans
 
 License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
 The full license is linked/attached here: [`LICENSE-DM-Sans`](./third-party-licenses/LICENSE-DM-Sans).
 
-Source: [DM Sans](https://github.com/googlefonts/dm-fonts)
+Source: [DM Fonts](https://github.com/googlefonts/dm-fonts)
 by Colophon Foundry.
 
 ## EB Garamond
