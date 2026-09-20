@@ -6,9 +6,11 @@ document.querySelectorAll('.spoiler').forEach(element => {
 });
 
 // Tippy.js
-document.querySelectorAll('.tip').forEach(element => {
-    tippy(element, {
-        content: element.dataset.tip,
-        arrow: false
+if (typeof tippy === "function") {
+    document.querySelectorAll(".tip").forEach(element => {
+        tippy(element, {
+            content: element.dataset.tip,
+            arrow: false
+        });
     });
-});
+}
