@@ -129,9 +129,9 @@ footer {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Libertinus Sans", sans-serif;
 }
-.site-heading h1, h2, h3, h4, h5, h6 {
-  font-family: "EB Garamond", serif;
-  display: inline-block;
+.site-heading :is(h1, h2, h3, h4, h5, h6) {
+    font-family: "EB Garamond", serif;
+    display: inline-block;
 }
 
 blockquote {
