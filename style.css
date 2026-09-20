@@ -45,7 +45,7 @@
 @media (orientation: landscape) {
     main {
         margin-inline: auto;
-        // max-width: 60vw;
+        /*max-width: 60vw;*/
         display: grid;
         grid-template-columns: 20vw 60vw 20vw;
 }
