@@ -165,7 +165,7 @@ code {
 pre {
   font-family: "Fira Code", monospace;
   border-radius: 4px;
-  margin: var(--h-padding);
+  /* margin: var(--h-padding); */
 }
 
 .tippy-box {
