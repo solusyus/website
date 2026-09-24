@@ -80,14 +80,14 @@ Source: [highlight.js](https://highlightjs.org/).
 
 ## Tippy.js
 
-License: MIT License.
+License: MIT License.<br>
 The full license is linked/attached here: [`LICENSE-Tippy-js`](./third-party-licenses/LICENSE-Tippy-js)
 
 Source: [Tippy.js](https://atomiks.github.io/tippyjs/) by atomiks.
 
 ## Floating UI
 
-License: MIT License.
+License: MIT License.<br>
 The full license is linked/attached here: [`LICENSE-Popper-js`](./third-party-licenses/LICENSE-Popper-js).
 
 Source: [Popper.js](https://github.com/floating-ui/floating-ui) (`@popperjs/core` v2), originally developed by Federico Zivolo and is now part of the Floating UI project.
