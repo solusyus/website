@@ -48,7 +48,7 @@
         max-width: 60vw;
 }
 
-    section {
+    section, figcaption {
         padding-inline: 0 !important;
     }
 
