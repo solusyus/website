@@ -43,12 +43,12 @@
 }
 
 @media (orientation: landscape) {
-    main {
+    main, footer {
         margin-inline: auto;
         max-width: 50vw;
 }
 
-    section, figcaption, footer {
+    section, figcaption {
         padding-inline: 0 !important;
     }
 
