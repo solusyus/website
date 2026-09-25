@@ -53,8 +53,7 @@
     }
 
     footer {
-        padding-left: 25vw;
-        padding-right: 25vw;
+        padding-inline: 25vw !important;
 }
         
         blockquote {
