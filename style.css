@@ -43,7 +43,7 @@
 }
 
 @media (orientation: landscape) {
-    main, footer {
+    main {
         margin-inline: auto;
         max-width: 50vw;
 }
@@ -52,10 +52,9 @@
         padding-inline: 0 !important;
     }
 
-    /*blockquote {
-        margin: 0 1.5rem !important;
-        padding: 0 1.5rem !important;
-}*/
+    footer {
+        margin-inline: 25vw;
+}
         
         blockquote {
   margin: 0;
