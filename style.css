@@ -125,7 +125,7 @@ footer {
   font-family: "Ark Pixel Mono", sans-serif;
   color: var(--bg-color);
   background-color: var(--accent);
-  padding-bottom: 20%;
+  padding-bottom: 0%;
   margin-top: var(--margin);
   padding-left: var(--h-padding);
   padding-right: var(--h-padding);
@@ -161,7 +161,7 @@ blockquote {
   
 code {
   font-family: "Fira Code", monospace;
-  font-size: .9rem;
+  font-size: .8rem;
   border-radius: 4px;
   color: var(--accent);
   background-color: #f0f0f0;
