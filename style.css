@@ -45,7 +45,7 @@
 @media (orientation: landscape) {
     main {
         margin-inline: auto;
-        max-width: 60vw;
+        max-width: 50vw;
 }
 
     section, figcaption {
@@ -95,7 +95,7 @@ figure {
 }
 figcaption {
   font-family: "DM Sans", sans-serif;
-  font-size: .9rem;
+  font-size: .8rem;
   color: var(--caption-color);
   margin-top: .5rem;
   margin-bottom: .5rem;
