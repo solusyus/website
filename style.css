@@ -216,7 +216,7 @@ pre {
 a {
   color: var(--accent);
   text-decoration: underline dotted;
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 1px;
 }
 a:visited {
   color: var(--sub-accent);
