@@ -53,25 +53,25 @@
     }
 
     hr {
-  margin-inline: 0 !important;
+        margin-inline: 0 !important;
 }
 
     header {
-  padding-inline: 25vw !important;
+        padding-inline: 25vw !important;
 }
 
     footer {
         padding-inline: 25vw !important;
 }
         
-        blockquote {
-  margin: 0;
-  padding: 0 1.5rem !important;
+    blockquote {
+        margin: 0;
+        padding: 0 1.5rem !important;
 }
 }
 
 *, *::before, *::after {
-    box-sizing: border-box;
+        box-sizing: border-box;
 }
 
 body {
