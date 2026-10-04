@@ -76,7 +76,7 @@
 
 body {
     margin: 0;
-    font-family: "Libertinus Serif", serif;
+    font-family: "DM Sans", sans-serif;
     font-size: 20px;
     line-height: 1.5;
     color: var(--color);
@@ -137,7 +137,7 @@ footer {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Libertinus Sans", sans-serif;
+  font-family: "EB Garamond", serif;
 }
 .site-heading :is(h1, h2, h3, h4, h5, h6) {
     font-family: "EB Garamond", serif;
