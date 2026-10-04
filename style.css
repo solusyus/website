@@ -96,7 +96,7 @@ figcaption {
   font-family: "DM Sans", sans-serif;
   font-size: .8rem;
   color: var(--caption-color);
-  margin-top: .5rem;
+  /* margin-top: .5rem; */
   /* margin-bottom: .5rem; */
 }
 
