@@ -57,7 +57,7 @@
 }
 
     header {
-  padding-inline: 25vw;
+  padding-inline: 25vw !important;
 }
 
     footer {
