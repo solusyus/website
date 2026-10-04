@@ -154,7 +154,7 @@ blockquote {
   color: var(--bg-color);
   font-family: "Libertinus Sans", sans;
   margin: 0;
-  padding: var(--h-padding);
+  padding-inline: var(--h-padding);
 }
 .author {
   text-align: right;
