@@ -171,7 +171,7 @@ blockquote {
   
 code {
   font-family: "Fira Code", monospace;
-  font-size: .7rem;
+  font-size: .75rem;
   border-radius: 4px;
   color: var(--accent);
   background-color: #f0f0f0;
