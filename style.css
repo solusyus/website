@@ -40,6 +40,7 @@
   --caption-color: #afafaf;
   --h-padding: 1.5rem;
   --margin: 1rem;
+  --font-size: 20px;
 }
 
 @media (orientation: landscape) {
@@ -74,9 +75,14 @@
         box-sizing: border-box;
 }
 
+html {
+    font-size: var(--font-size);
+}
+
 body {
     margin: 0;
     font-family: "Libertinus Serif", serif;
+    font-size: var(--font-size);
     line-height: 1.5;
     color: var(--color);
     background-color: var(--bg-color);
