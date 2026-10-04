@@ -81,7 +81,7 @@ html {
 
 body {
     margin: 0;
-    font-family: "Libertinus Serif", serif;
+    font-family: "DM Sans", sans-erif;
     font-size: var(--font-size);
     line-height: 1.5;
     color: var(--color);
@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 blockquote {
   background: var(--color);
   color: var(--bg-color);
-  font-family: "Libertinus Sans", sans;
+  font-family: "Libertinus Serif", sans-serif;
   margin: 0;
   padding-inline: var(--h-padding);
 }
