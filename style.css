@@ -182,8 +182,8 @@ pre {
   color: var(--color);
   border: 1px solid var(--color);
   border-radius: 0;
-  font-family: "Ark Pixel Mono", sans-serif;
-  font-size: .75rem;
+  font-family: "Ark Pixel Mono", monospace;
+  font-size: .5rem;
 }
 .tippy-content {
   padding: 0 4px;
