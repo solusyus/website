@@ -56,6 +56,10 @@
   margin-inline: 0 !important;
 }
 
+header {
+  padding-inline: 25vw;
+}
+
     footer {
         padding-inline: 25vw !important;
 }
