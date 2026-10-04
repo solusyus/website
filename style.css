@@ -107,10 +107,10 @@ figure {
 }
 figcaption {
   font-family: "DM Sans", sans-serif;
-  font-size: .8rem;
+  font-size: .4rem;
   color: var(--caption-color);
-  margin-top: .5rem;
-  /* margin-bottom: .5rem; */
+  margin-top: .25rem;
+  /* margin-bottom: .25rem; */
 }
 
 hr {
@@ -171,7 +171,7 @@ blockquote {
   
 code {
   font-family: "Fira Code", monospace;
-  font-size: .8rem;
+  font-size: .4rem;
   border-radius: 4px;
   color: var(--accent);
   background-color: #f0f0f0;
@@ -188,7 +188,7 @@ pre {
   border: 1px solid var(--color);
   border-radius: 0;
   font-family: "Ark Pixel Mono", monospace;
-  font-size: .75rem;
+  font-size: .375rem;
 }
 .tippy-content {
   padding: 0 4px;
@@ -196,17 +196,17 @@ pre {
 
 .gallery {
     columns: 4;
-    column-gap: .25rem;
+    column-gap: .375rem;
 }
 .gallery img {
     width: 100%;
     display: block;
-    margin: .25rem 0;
+    margin: .125rem 0;
 }
 .sticker {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: .25rem;
+    gap: .125rem;
 }
 .sticker img {
     width: 100%;
