@@ -40,7 +40,7 @@
   --caption-color: #afafaf;
   --h-padding: 1rem;
   --margin: .65rem;
-  --font-size: 20px;
+  --font-size: 12px;
 }
 
 @media (orientation: landscape) {
