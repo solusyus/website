@@ -131,7 +131,7 @@ header {
 }
 header :is(h1, h2, h3, h4, h5, h6) {
   margin: 0;
-  color: #4f4f4f;
+  color: var(--accent);
 }
 
 footer {
@@ -143,7 +143,7 @@ footer {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Libertinus Sans", sans-serif;
-  color: var(--sub-accent);
+  color: #3f3f3f;
 }
 .site-heading :is(h1, h2, h3, h4, h5, h6) {
     font-family: "EB Garamond", serif;
