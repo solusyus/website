@@ -183,7 +183,7 @@ pre {
   border-radius: 4px;
 }
 pre {
-    background: #afafaf
+    background: #7f7f7f
 }
 
 pre code.hljs {
@@ -195,6 +195,7 @@ pre code.hljs,
 .hljs {
     padding: 0 !important;
     margin: 0 !important;
+    margin-block: 0 !important;
 }
 
 .tippy-box {
