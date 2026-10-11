@@ -188,8 +188,8 @@ pre {
 
 pre code.hljs {
     background: transparent;
-    border-top: var(--accent) 1px;
-    border-bottom: var(--accent) 1px;
+    border-top: 1px solid var(--accent);
+    border-bottom: 1px solid var(--accent);
 }
 pre,
 pre code,
