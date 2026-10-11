@@ -193,8 +193,7 @@ pre,
 pre code,
 pre code.hljs,
 .hljs {
-    /* padding: 0 !important; */
-    margin: 0 !important;
+    padding: 0 !important;
 }
 
 .tippy-box {
