@@ -183,11 +183,16 @@ pre {
   border-radius: 4px;
 }
 pre {
-    background: #fff;
+    background: #afafaf
 }
 
 pre code.hljs {
     background: transparent;
+}
+pre,
+pre code.hljs {
+    padding: 0;
+    margin: 0;
 }
 
 .tippy-box {
