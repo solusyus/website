@@ -183,11 +183,13 @@ pre {
   border-radius: 4px;
 }
 pre {
-    background: #f0f0f0
+    background: #f0f0f0;
 }
 
 pre code.hljs {
     background: transparent;
+    border-top: var(--accent) 1px;
+    border-bottom: var(--accent) 1px;
 }
 pre,
 pre code,
