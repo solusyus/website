@@ -182,6 +182,13 @@ pre {
   font-family: "Fira Code", monospace;
   border-radius: 4px;
 }
+pre {
+    background: #fff;
+}
+
+pre code.hljs {
+    background: transparent;
+}
 
 .tippy-box {
   background-color: var(--tip-bg-color);
