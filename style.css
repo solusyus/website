@@ -190,9 +190,11 @@ pre code.hljs {
     background: transparent;
 }
 pre,
-pre code.hljs {
-    padding: 0;
-    margin: 0;
+pre code,
+pre code.hljs,
+.hljs {
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 .tippy-box {
