@@ -195,7 +195,6 @@ pre,
 pre code,
 pre code.hljs,
 .hljs {
-    padding-top: var(--h-padding) !important;
     padding-bottom: var(--h-padding) !important;
     padding-inline: 0 !important;
 }
