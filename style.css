@@ -182,9 +182,8 @@ code {
 pre {
   font-family: "Fira Code", monospace;
   border-radius: 4px;
-}
-pre {
-    background: transparent;
+  background: transparent;
+  box-shadow: inset 0 0 12px #fcfcfc3;
 }
 
 pre code.hljs {
