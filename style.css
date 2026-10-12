@@ -39,6 +39,7 @@
   --tip-bg-color: #ffffaf;
   --caption-color: #afafaf;
   --h-padding: 1rem;
+  --h/2-padding: .5rem;
   --margin: .65rem;
   --font-size: 20px;
 }
@@ -195,7 +196,7 @@ pre,
 pre code,
 pre code.hljs,
 .hljs {
-    padding-inline: 0 !important;
+    padding: var(--h/2-padding) !important;
 }
 
 .tippy-box {
