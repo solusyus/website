@@ -195,7 +195,8 @@ pre,
 pre code,
 pre code.hljs,
 .hljs {
-    padding-block: var(--h-padding) !important;
+    padding-top: var(--h-padding) !important;
+    padding-bottom: var(--h-padding) !important;
 }
 
 .tippy-box {
