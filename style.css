@@ -212,13 +212,13 @@ pre code.hljs,
 }
 
 .gallery {
-    columns: 4;
-    column-gap: .5rem;
+    columns: 3;
+    column-gap: .25rem;
 }
 .gallery img {
     width: 100%;
     display: block;
-    margin: .5rem 0;
+    margin: .25rem 0;
 }
 .sticker {
     display: grid;
