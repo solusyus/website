@@ -91,7 +91,7 @@ body {
     display: flex;
     flex-direction: column;
 }
-main {
+main, header, footer {
   flex: 1;
   padding-inline: var(--h-padding);
 }
@@ -99,9 +99,7 @@ main {
 /* section, header, figcaption, footer {
     padding-inline: var(--h-padding);
 } */
-main > *:not(img) {
-    margin-inline: 2rem;
-}
+
 img {
     width: 100%;
     height: auto;
