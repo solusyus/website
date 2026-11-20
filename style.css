@@ -93,6 +93,7 @@ body {
 }
 main {
   flex: 1;
+  padding-inline: var(--h-padding);
 }
 
 /* section, header, figcaption, footer {
@@ -100,10 +101,6 @@ main {
 } */
 main > *:not(img) {
     margin-inline: 2rem;
-}
-
-main > img {
-    margin: 0;
 }
 img {
     width: 100%;
