@@ -204,33 +204,11 @@ pre code.hljs,
   color: var(--color);
   border: 1px solid var(--color);
   border-radius: 0;
-  font-family: "Ark Pixel Mono", monospace;
+  font-family: "DM Sans", sans-serif;
   font-size: .6rem;
 }
 .tippy-content {
   padding: 0 4px;
-}
-
-.gallery {
-    columns: 3;
-    column-gap: .05rem;
-}
-.gallery img {
-    width: 100%;
-    display: block;
-    margin: .05rem 0;
-}
-.gallery img:first-child {
-    margin-top: 0;
-}
-.sticker {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: .5rem;
-}
-.sticker img {
-    width: 100%;
-    display: block;
 }
 
 ::selection {
