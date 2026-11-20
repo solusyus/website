@@ -220,6 +220,9 @@ pre code.hljs,
     display: block;
     margin: .25rem 0;
 }
+.gallery img:first-child {
+    margin-top: 0;
+}
 .sticker {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
