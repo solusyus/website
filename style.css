@@ -213,12 +213,12 @@ pre code.hljs,
 
 .gallery {
     columns: 3;
-    column-gap: .25rem;
+    column-gap: .05rem;
 }
 .gallery img {
     width: 100%;
     display: block;
-    margin: .25rem 0;
+    margin: .05rem 0;
 }
 .gallery img:first-child {
     margin-top: 0;
