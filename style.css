@@ -95,8 +95,15 @@ main {
   flex: 1;
 }
 
-section, header, figcaption, footer {
+/* section, header, figcaption, footer {
     padding-inline: var(--h-padding);
+} */
+main > *:not(img) {
+    margin-inline: 2rem;
+}
+
+main > img {
+    margin: 0;
 }
 img {
     width: 100%;
