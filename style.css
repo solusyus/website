@@ -211,7 +211,7 @@ pre code.hljs,
   padding: 0 4px;
 }
 
-/* .gallery {
+.gallery {
     columns: 4;
     column-gap: .5rem;
 }
@@ -219,17 +219,6 @@ pre code.hljs,
     width: 100%;
     display: block;
     margin: .5rem 0;
-} */
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: masonry;
-    gap: .5rem;
-}
-
-.gallery img {
-    width: 100%;
-    display: block;
 }
 .sticker {
     display: grid;
