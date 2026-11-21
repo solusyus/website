@@ -159,7 +159,7 @@ blockquote {
   background: transparent;
   color: var(--bq-color);
   font-family: "Libertinus Serif", serif;
-  /* margin: 0; */
+  margin-inline: 0;
   padding-left: var(--h-padding);
   border-left: 3px solid var(--accent);
 }
