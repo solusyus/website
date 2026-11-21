@@ -45,7 +45,7 @@
   --bq-color: #7f7f7f;
 }
 
-@media (orientation: landscape) {
+/* @media (orientation: landscape) {
     main {
         margin-inline: auto;
         max-width: 50vw;
@@ -75,7 +75,7 @@
 
 *, *::before, *::after {
         box-sizing: border-box;
-}
+} */
 
 html {
     font-size: var(--font-size);
@@ -142,12 +142,12 @@ footer {
   font-family: "Ark Pixel Mono", sans-serif;
   color: var(--bg-color);
   background-color: var(--accent);
-  padding-bottom: 0%;
+  /* padding-bottom: 0%; */
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Libertinus Sans", sans-serif;
-  color: #3f3f3f;
+  font-family: "Libertinus Serif", serif;
+  color: var(--color);
 }
 .site-heading :is(h1, h2, h3, h4, h5, h6) {
     font-family: "EB Garamond", serif;
