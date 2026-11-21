@@ -42,7 +42,7 @@
   --hby2-padding: .5rem;
   --margin: .65rem;
   --font-size: 20px;
-  --bq-color: #fafafa
+  --bq-color: #fafafa;
 }
 
 @media (orientation: landscape) {
