@@ -92,8 +92,10 @@ body {
     display: flex;
     flex-direction: column;
 }
+main {
+flex: 1;
+}
 main, header, footer {
-  flex: 1;
   padding-inline: var(--h-padding);
 }
 
