@@ -188,7 +188,7 @@ pre {
 }
 
 pre code.hljs {
-    background: #fafafa;
+   /* background: #fafafa; */
    /* border-top: 1px solid transparent; */
    /* border-bottom: 1px solid transparent; */
 }
@@ -196,7 +196,7 @@ pre,
 pre code,
 pre code.hljs,
 .hljs {
-    padding: var(--hby2-padding) !important;
+    /* padding: var(--hby2-padding) !important; */
 }
 
 .tippy-box {
