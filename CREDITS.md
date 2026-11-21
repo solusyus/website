@@ -74,7 +74,7 @@ Source: [Jacquard 12](https://fonts.google.com/specimen/Jacquard+12) by Sarah Ca
 ## Jacquard 24
 
 License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
-The full license is linked/attached here: [`LICENSE-Jacquard-24`](./third-party-licenses/LICENSE-Jacquard 24).
+The full license is linked/attached here: [`LICENSE-Jacquard-24`](./third-party-licenses/LICENSE-Jacquard-24).
 
 Source: [Jacquard 24](https://fonts.google.com/specimen/Jacquard+24) by Sarah Cadigan-Fried.
 
