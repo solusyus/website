@@ -99,9 +99,9 @@ The full license is linked/attached here: [`LICENSE-Tippy-js`](./third-party-lic
 
 Source: [Tippy.js](https://atomiks.github.io/tippyjs/) by atomiks.
 
-## Floating UI
+## Popper.js
 
 License: MIT License.<br>
 The full license is linked/attached here: [`LICENSE-Popper-js`](./third-party-licenses/LICENSE-Popper-js).
 
-Source: [Popper.js](https://github.com/floating-ui/floating-ui) (`@popperjs/core` v2), originally developed by Federico Zivolo and is now part of the Floating UI project.
+Source: [Popper.js](https://popper.js.org/) (`@popperjs/core` v2), developed by Federico Zivolo.
