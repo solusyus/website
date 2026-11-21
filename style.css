@@ -156,11 +156,11 @@ h1, h2, h3, h4, h5, h6 {
 
 blockquote {
   background: transparent;
-  color: var(--bq-color);
+  color: var(--accent);
   font-family: "Libertinus Serif", serif;
   margin: 0;
   padding-left: var(--h-padding);
-  border-left: 2px solid var(--accent);
+  border-left: 2px solid var(--color);
 }
 .author {
   text-align: right;
