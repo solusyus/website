@@ -42,6 +42,7 @@
   --hby2-padding: .5rem;
   --margin: .65rem;
   --font-size: 20px;
+  --bq-color: #fafafa
 }
 
 @media (orientation: landscape) {
@@ -154,11 +155,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 blockquote {
-  background: var(--color);
-  color: var(--bg-color);
+  background: transparent;
+  color: var(--bq-color);
   font-family: "EB Garamond", serif;
   margin: 0;
-  padding-inline: var(--h-padding);
+  padding-left: var(--h-padding);
 }
 .author {
   text-align: right;
