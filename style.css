@@ -142,7 +142,7 @@ footer {
   font-family: "Ark Pixel Mono", sans-serif;
   color: var(--bg-color);
   background-color: var(--accent);
-  /* padding-bottom: 0%; */
+  padding-bottom: 0%;
 }
 
 h1, h2, h3, h4, h5, h6 {
