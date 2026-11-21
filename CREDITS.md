@@ -64,6 +64,20 @@ The full license is linked/attached here: [`LICENSE-Bellefair`](./third-party-li
 
 Source: [Bellefair](https://fonts.google.com/specimen/Bellefair) by Nayyer Asif.
 
+## Jacquard 12
+
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-Jacquard-12`](./third-party-licenses/LICENSE-Jacquard-12).
+
+Source: [Jacquard 12](https://fonts.google.com/specimen/Jacquard+12) by Sarah Cadigan-Fried.
+
+## Jacquard 24
+
+License: SIL Open Font License, Version 1.1 - 26 February 2007.<br>
+The full license is linked/attached here: [`LICENSE-Jacquard-24`](./third-party-licenses/LICENSE-Jacquard 24).
+
+Source: [Jacquard 24](https://fonts.google.com/specimen/Jacquard+24) by Sarah Cadigan-Fried.
+
 ## MathJax
 
 License: Apache License, Version 2.0.<br>
