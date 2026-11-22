@@ -160,6 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .site-heading :is(h1, h2, h3, h4, h5, h6) {
     font-family: "Jacquard24", serif;
+    font-weight: normal;
     display: inline-block;
 }
 
