@@ -30,6 +30,14 @@
     font-family: "Bellefair";
     src: url("fonts/Bellefair-Regular.ttf") format("truetype");
 }
+@font-face {
+    font-family: "Jacquard12";
+    src: url("fonts/Jacquard12-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Jacquard24";
+    src: url("fonts/Jacquard24-Regular.ttf") format("truetype");
+}
 
 :root {
   --accent: #0050ff;
@@ -151,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color);
 }
 .site-heading :is(h1, h2, h3, h4, h5, h6) {
-    font-family: "EB Garamond", serif;
+    font-family: "Jacquard12", serif;
     display: inline-block;
 }
 
