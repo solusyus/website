@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color);
 }
 .site-heading :is(h1, h2, h3, h4, h5, h6) {
-    font-family: "Jacquard12", serif;
+    font-family: "Jacquard24", serif;
     font-weight: normal;
     display: inline-block;
 }
