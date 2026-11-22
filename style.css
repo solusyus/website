@@ -161,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 .site-heading :is(h1, h2, h3, h4, h5, h6) {
     font-family: "Jacquard24", serif;
     font-weight: normal;
-    text-shadow: 1px 1px 0px rgba(255, 0, 255, 1);
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 1);
     display: inline-block;
 }
 
